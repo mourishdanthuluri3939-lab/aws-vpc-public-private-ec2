@@ -1,6 +1,6 @@
 # AWS VPC Public-Private Network
 
-![AWS Architecture Diagram](screenshots/architecture.png)
+![AWS VPC Architecture](screenshots/architecture.png)
 
 # AWS VPC Networking: Public and Private EC2
 
